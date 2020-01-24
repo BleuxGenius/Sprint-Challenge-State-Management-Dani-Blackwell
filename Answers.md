@@ -1,3 +1,5 @@
+Questions answered MVP Completed 
+
 1. What problem does the context API help solve?
 
 It lets you avoid prop drilling and lets you pass data upstream.
